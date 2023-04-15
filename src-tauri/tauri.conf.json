@@ -7,8 +7,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "文心一言",
-    "version": "0.1.0"
+    "productName": "WenXin",
+    "version": "0.1.1"
   },
   "tauri": {
     "allowlist": {
