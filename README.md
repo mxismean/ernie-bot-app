@@ -3,4 +3,4 @@
 
 ## 安装包
 
-[🔗 packages](https://github.com/mxismean/wen-xin-app/releases)
+[🔗 packages](https://github.com/mxismean/ernie-bot-app/releases)
