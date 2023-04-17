@@ -1,14 +1,14 @@
 {
-  "name": "wen-xin-app",
+  "name": "ernie-bot-app",
   "private": true,
-  "version": "0.1.2",
+  "version": "0.2.0",
   "type": "module",
   "author": {
     "name": "mxismean",
     "email": "mxismean@163.com"
   },
   "repository": {
-    "url": "https://github.com/mxismean/wen-xin-app"
+    "url": "https://github.com/mxismean/ernie-bot-app"
   },
   "scripts": {
     "dev": "vite",
